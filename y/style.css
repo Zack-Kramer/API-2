@@ -1,0 +1,15 @@
+/* CSS for nav, div, and button */ 
+
+.navbar {
+background-color: green;
+height: 60vh;
+}
+
+.imgArea {
+    border: 5px solid black;
+    height: 80vh;
+}
+
+.button {
+    border: 5px solid black;
+}
